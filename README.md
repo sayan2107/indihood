@@ -1,5 +1,11 @@
-# Indihood Mobile app
+## Preview
+<p float="left">
+  <img src="https://github.com/sayan2107/indihood/blob/master/screenshots/Screenshot_2020-04-26-11-55-08-42_f5691b5e14f617bf4afcd0b4f006e80b.jpg" width="200" height="370" />
+  <img src="https://github.com/sayan2107/indihood/blob/master/screenshots/Screenshot_2020-04-26-11-55-01-22_f5691b5e14f617bf4afcd0b4f006e80b.jpg" width="200" height="370"  /> 
+  <img src="https://github.com/sayan2107/indihood/blob/master/screenshots/Screenshot_2020-04-26-11-55-04-70_f5691b5e14f617bf4afcd0b4f006e80b.jpg" width="200" height="370"  />
+</p> 
 
+# Indihood Mobile app 
 Flutter is a cross platform Mobile Application development framework by google.
 
 ## Setup Process
