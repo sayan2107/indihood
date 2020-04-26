@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318304177150",
+    "firebase_url": "https://indihood-29e0b.firebaseio.com",
+    "project_id": "indihood-29e0b",
+    "storage_bucket": "indihood-29e0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318304177150:android:eee0ef14313346857e0eaf",
+        "android_client_info": {
+          "package_name": "com.example.indihood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318304177150-on8adaj3atuj55q76ngvgfbe20c1cpig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5dCkI9gkHWPOVSkjNl8EnLrrMkJ7YKqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318304177150-on8adaj3atuj55q76ngvgfbe20c1cpig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
